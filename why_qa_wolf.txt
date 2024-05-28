@@ -1,0 +1,5 @@
+I have experience working as a QA developer at Salesforce, where I worked on a customized version of Selenium converted to JavaScript and Node.js.
+
+My main role at Salesforce involved ensuring 100% test coverage for our customized version of Selenium. I also specialized in creating automation tests for Web Vitals, focusing on metrics such as longest page rendering. I am proficient in using testing coverage tools like Jest, Mocha, and Chai, which demonstrates my ability to handle complex QA tasks.
+
+I am keen to further develop my QA skills and expertise, and I believe that QA Wolf provides the ideal platform for this advancement. I am particularly attracted to QA Wolf's emphasis on delivering impact quickly, which prioritizes making decisive decisions and avoiding unnecessary delays.
